@@ -1,0 +1,12 @@
+{
+  "name": "Board_Finder_App",
+  "displayName": "Board_Finder_App",
+  "expo": {
+    "name": "Board_Finder_App",
+    "slug": "Board_Finder_App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
